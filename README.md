@@ -437,12 +437,5 @@ This codebase adheres to:
 
 ---
 
-## 📧 Contact & Questions
 
-For questions about the codebase, design decisions, or architectural patterns used:
-> [Your Email Here] | [Your LinkedIn] | [Your GitHub]
-
----
-
-**⭐ If you find this project useful, please consider giving it a star! It helps showcase quality work to other developers and recruiters.**
 
